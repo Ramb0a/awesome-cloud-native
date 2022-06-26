@@ -33,7 +33,7 @@ A known problem in cloud compute is the [Noisy Neighbor](https://docs.microsoft.
 
 Compute seems to now fall under the [Nitro System](https://aws.amazon.com/ec2/nitro/) - a combination of dedicated hardware and lightweight [hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor.html).
 
-AWS most state of the art processors are the [Graviton](https://aws.amazon.com/ec2/graviton/)
+AWS most state of the art processors are the [Graviton](https://aws.amazon.com/ec2/graviton/) which use 64-bit Arm [Neoverse cores](https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-n1) optimized for handling a wide range of cloud-native workloads.
 
 Compute Instances are of several types: 
 
