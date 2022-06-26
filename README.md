@@ -18,6 +18,10 @@ A cloud native application is engineered to run on a platform and is designed fo
 * **Operability** adds control of application life cycles from inside the application instead of relying on external processes and monitors.  
 * **Observability** provides information to answer questions about application state. 
 
+## Well Architected Framework
+
+
+
 
 ## Containers
 
@@ -63,6 +67,94 @@ Compute Instances are of several types:
 Anthos Service Mesh[https://cloud.google.com/anthos/service-mesh) uses Istio (fully managed service) - opinions 
 
 [Open Telemetry](https://opentelemetry.io/)
+
+# Cloud SaaS Strategies
+
+Multi-tenant SaaS products require a deep strategy for: 
+* onboarding
+* tenant isolation
+* data partitioning
+* tenant deployment pipeline
+* observability
+
+## [Tenant Isolation](https://d1.awsstatic.com/whitepapers/saas-tenant-isolation-strategies.pdf)
+
+ enables SaaS providers to reassure customers that—even in a multitenant environment—their resources cannot be accessed by other tenants
+
+the strategies and approaches to achieving this isolation are not universal.
+
+AWS tenet isolation principles:
+* Isolation is not optional 
+* Authentication and authorization are not equal to isolation 
+* Isolation enforcement should not be left to service developers
+* If there’s not out-of-the box isolation solution, you may have to build it yourself 
+* Isolation is not a resource-level construct
+* Domains may impose specific isolation requirements
+
+### Silo Isolation 
+
+#### Pros
+* **Supporting challenging compliance models** - dedicated model fits regulated industries 
+*  **No noisy neighbor concerns** - no customers with potential of having their workloads impacted by the activity
+of other tenants using the system
+*  **Tenant cost tracking** - coarse-grained nature of the silo model provides us with a simple way to capture
+and associate infrastructure costs with each tenant.
+* **Limited blast radius** –  any failures that occur within a given tenant’s environment will likely be constrained to that environment.
+
+#### Cons
+* **Scaling issues** 
+* **Costs** - with every tenant running in its own environment, we’re missing much of
+the cost efficiency that is traditionally associated with SaaS solutions
+* **Agility** - the highly decentralized nature of the silo model adds
+complexity that impacts your ability to easily manage, operate, and support your
+tenants
+* **Onboarding automation** - The provisioning
+of a new tenant will require the provisioning of new infrastructure and, potentially,
+the configuration of new account limits. These added moving parts introduce
+overhead that introduces additional dimensions of complexity into the overall
+onboarding automation, enabling you to focus less time on your customers.
+* **Decentralized management and monitoring** - While there are mechanisms that will enable you
+to create an aggregate view of your tenants, the effort and energy needed to
+build and manage this experience is more complex in a siloed model.
+
+
+### Pool Isolation
+
+the
+efficiency, agility, and cost benefits of being able to have their tenants share some or all
+of their underlying infrastructure.
+
+even though this is a more challenging environment to isolation—
+you cannot use this as a rationale to relax the isolation requirements of your
+environment. If anything, these shared model increases the chance for cross-tenant
+access and, as such, it represents an area that requires you to be especially diligent
+about ensuring that resources are isolated.
+
+
+#### Pros
+
+* Agility 
+* Cost efficiency 
+* Simplified management and operations 
+* Innovation 
+
+#### Cons 
+
+* Noisy neighbor
+* Tenant cost tracking 
+* Blast radius 
+* Compliance pushback
+
+## Bridge Model of Isolation
+
+As you look at real application problems and
+you decompose our systems into smaller services, you will often discover that your
+solution will require a mix of the silo and pool models. This mixed model is what we
+would refer to as a bridge model of isolation
+
+your view of silo
+and pool will be much more granular for environments that are decomposed into a
+collection of services that have varying isolation requirements.
 
  
 
