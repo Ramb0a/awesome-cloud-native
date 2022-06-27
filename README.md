@@ -24,13 +24,44 @@ Successful transformation programs are business-driven. They have clear governan
 
 ![Cloud Agile Transformtion](https://docs.aws.amazon.com/whitepapers/latest/cloud-driven-enterprise-transformation-on-aws/images/CloudTransformation2.png)
 
-[Transformation Domains](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-1.png)
+Successful organizations utlize cloud transformation to: 
 
-[Transformation Foundation Capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-2.png)
+* align IT portfolio to business priorities
+  * Modernize what matters
+  * prioritize what moves when/how (l&s/managed/cloud-native/microservice)
+* accelerate digital transformation 
+* Increase productivity of engineering teams 
+* Automate 
+* address technical debt 
+* Migrate simpler cases while long-planner tough applications 
 
-[Platform Capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-8.png)
+![Cloud Transformation FlyWheel](https://docs.aws.amazon.com/whitepapers/latest/cloud-driven-enterprise-transformation-on-aws/images/CT3.jpg)
 
-[Cloud Security](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-9.png)
+![Transformation Domains](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-1.png)
+
+![Transformation Foundation Capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-2.png)
+
+![Platform Capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-8.png)
+
+![Cloud Security](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-9.png)
+
+## Migation Patterns 
+
+The choice is not between moving applications to the cloud “as is” or full refactoring to enable cloud-native capabilities. There is a spectrum of options in-between. Companies who move fastest empower teams to evaluate trade-offs, document their decisions, move quickly, and use data to measure performance and adjust.
+
+Companies that do not engage all aspects of their organization to accelerate through the most complex phase of dual operations (on-premises and on cloud) often stall early in the transition, diminish the business case, and miss the opportunity to capture the value of cloud innovation.
+
+### Life & Shift
+
+Migrating applications to cloud, even in a “like for like” architecture approach with minimal optimization or refactoring, still requires a thoughtful “full stack” design. This entails addressing all the design elements, including:
+
+* Infrastructure design
+* Application architecture
+* Testing suite
+* Deployment processes
+* Resiliency considerations
+* Operational capabilities
+
 
 ## Containers
 
@@ -73,7 +104,7 @@ Compute Instances are of several types:
 
 [AWS App Mesh](https://aws.amazon.com/app-mesh/?aws-app-mesh-blogs.sort-by=item.additionalFields.createdDate&aws-app-mesh-blogs.sort-order=desc&whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc) uses Envoy (fully managed servce)  
 
-Anthos Service Mesh[https://cloud.google.com/anthos/service-mesh) uses Istio (fully managed service) - opinions 
+[Anthos Service Mesh](https://cloud.google.com/anthos/service-mesh) uses Istio (fully managed service) - opinions 
 
 [Open Telemetry](https://opentelemetry.io/)
 
