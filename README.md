@@ -18,10 +18,19 @@ A cloud native application is engineered to run on a platform and is designed fo
 * **Operability** adds control of application life cycles from inside the application instead of relying on external processes and monitors.  
 * **Observability** provides information to answer questions about application state. 
 
-## Well Architected Framework
+## Cloud Transformation
 
+Successful transformation programs are business-driven. They have clear governance of key milestone objectives and success metrics coupled with a people strategy that accommodates a variety of organizational / team levels of cloud expertise. Successful cloud transformation programs enable teams to work and collaborate using agile principles to improve collaboration and joint prioritization. An agile approach breaks down large tasks (such as enterprise migration) into manageable, iterative pieces of work delivered and measured incrementally. 
 
+![Cloud Agile Transformtion](https://docs.aws.amazon.com/whitepapers/latest/cloud-driven-enterprise-transformation-on-aws/images/CloudTransformation2.png)
 
+[Transformation Domains](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-1.png)
+
+[Transformation Foundation Capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-2.png)
+
+[Platform Capabilities](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-8.png)
+
+[Cloud Security](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-9.png)
 
 ## Containers
 
