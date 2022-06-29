@@ -88,7 +88,13 @@ Compute Instances are of several types:
 
 ## Service Mesh 
 
-[Istio](https://istio.io/latest/) is a control plane with [sidecar pattern](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) [architecture](https://istio.io/latest/docs/ops/deployment/architecture/) that uses [Envoy](https://www.envoyproxy.io/) [proxies](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) for its data plane. 
+Service mesh is network communication between the parts of an application comprised of a control plane and a data plane.
+
+**Data plane** is proxies sitting next to your applications or services, intercepting any network traffic that is under the management of the [proxies](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+
+**Control Plane** manages the configuration of the the configuration of the proxies of the data plane usually through an API.
+
+[Istio](https://istio.io/latest/) is a control plane with [sidecar pattern](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) [architecture](https://istio.io/latest/docs/ops/deployment/architecture/) that uses [Envoy](https://www.envoyproxy.io/) proxies for its data plane. 
 
 [Jaegar](https://www.jaegertracing.io/)  
 
