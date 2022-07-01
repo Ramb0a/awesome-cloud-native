@@ -49,6 +49,12 @@ Successful organizations utlize cloud transformation to:
 
 ![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
 
+* [GCP Landing Zones](https://cloud.google.com/architecture/landing-zones)
+
+* [Aws Control Tower](https://aws.amazon.com/controltower/?control-blogs.sort-by=item.additionalFields.createdDate&control-blogs.sort-order=desc)
+* [Aws Organizations](https://aws.amazon.com/organizations/)
+
+
 ## FinOps
 
 ### FinOps References 
