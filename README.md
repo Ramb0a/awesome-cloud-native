@@ -49,6 +49,18 @@ Successful organizations utlize cloud transformation to:
 
 ![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
 
+## FinOps
+
+### FinOps References 
+
+[GCP Unlocking Value of FinOps](https://services.google.com/fh/files/misc/unlocking_the_value_of_cloud_finops_with_a_new_operating_model_whitepaper.pdf)
+
+[Google Guide to Financial Governance in the Cloud](https://cloud.google.com/files/guide-to-financial-governance.pdf)
+
+[Getting Started on FinOps in GCP](https://cloud.google.com/resources/cloud-finops-getting-started-whitepaper)
+
+[GCP Maximize Business Value with Cloud FinOps](https://cloud.google.com/resources/cloud-finops-whitepaper)
+
 
 ## Migation Patterns 
 
