@@ -47,7 +47,7 @@ Successful organizations utlize cloud transformation to:
 
 ![Cloud Governance](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-guide/images/how-to-prepare-aws-environments.png)
 
-![Innovation At Scale](![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
+![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
 
 
 ## Migation Patterns 
