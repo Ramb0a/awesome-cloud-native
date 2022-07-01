@@ -88,11 +88,12 @@ Compute Instances are of several types:
 
 ## Service Mesh 
 
-Service mesh is network communication between the parts of an application comprised of a control plane and a data plane.
+[Service mesh](https://d1.awsstatic.com/whitepapers/using-service-meshes-in-aws.pdf?did=wp_card&trk=wp_card) is network communication between the parts of an application comprised of a control plane and a data plane.
 
-**Data plane** is proxies sitting next to your applications or services, intercepting any network traffic that is under the management of the [proxies](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+* **Data plane** is proxies sitting next to your applications or services, intercepting any network traffic that is under the management of the [proxies](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
+* **Control Plane** manages the configuration of the the configuration of the proxies of the data plane usually through an API.
 
-**Control Plane** manages the configuration of the the configuration of the proxies of the data plane usually through an API.
+Service meshes should not be the first project you get into in your cloud journey. if you have a monolith without a path to microservices, you don’t need a service mesh.
 
 [Istio](https://istio.io/latest/) is a control plane with [sidecar pattern](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) [architecture](https://istio.io/latest/docs/ops/deployment/architecture/) that uses [Envoy](https://www.envoyproxy.io/) proxies for its data plane. 
 
@@ -113,6 +114,8 @@ Service mesh is network communication between the parts of an application compri
 [Anthos Service Mesh](https://cloud.google.com/anthos/service-mesh) uses Istio (fully managed service) - opinions 
 
 [Open Telemetry](https://opentelemetry.io/)
+
+[Service Mesh Interface](https://smi-spec.io/)
 
 # Cloud SaaS Strategies
 
