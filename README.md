@@ -45,6 +45,8 @@ Successful organizations utlize cloud transformation to:
 
 ![Cloud Security](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-9.png)
 
+![Cloud Governance](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-guide/images/how-to-prepare-aws-environments.png)
+
 ## Migation Patterns 
 
 The choice is not between moving applications to the cloud “as is” or full refactoring to enable cloud-native capabilities. There is a spectrum of options in-between. Companies who move fastest empower teams to evaluate trade-offs, document their decisions, move quickly, and use data to measure performance and adjust.
