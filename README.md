@@ -70,6 +70,9 @@ Successful organizations utlize cloud transformation to:
 
 ## Migation Patterns 
 
+![image](https://user-images.githubusercontent.com/64801585/177016575-7925f5db-7a68-4d88-aebc-275a1ed502a3.png)
+
+
 The choice is not between moving applications to the cloud “as is” or full refactoring to enable cloud-native capabilities. There is a spectrum of options in-between. Companies who move fastest empower teams to evaluate trade-offs, document their decisions, move quickly, and use data to measure performance and adjust.
 
 Companies that do not engage all aspects of their organization to accelerate through the most complex phase of dual operations (on-premises and on cloud) often stall early in the transition, diminish the business case, and miss the opportunity to capture the value of cloud innovation.
