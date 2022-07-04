@@ -51,6 +51,9 @@ Successful organizations utlize cloud transformation to:
 
 ![image](https://user-images.githubusercontent.com/64801585/177121750-e1e13ffd-0c16-45f2-9499-0f86b1f2c3b0.png)
 
+![image](https://user-images.githubusercontent.com/64801585/177122485-6e7ca1b5-c1d7-4e24-8e2a-a7676d4ba13b.png)
+
+
 * [GCP Landing Zones](https://cloud.google.com/architecture/landing-zones)
 
 * [Aws Control Tower](https://aws.amazon.com/controltower/?control-blogs.sort-by=item.additionalFields.createdDate&control-blogs.sort-order=desc)
@@ -80,6 +83,9 @@ The choice is not between moving applications to the cloud “as is” or full r
 Companies that do not engage all aspects of their organization to accelerate through the most complex phase of dual operations (on-premises and on cloud) often stall early in the transition, diminish the business case, and miss the opportunity to capture the value of cloud innovation.
 
 ![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
+
+![image](https://user-images.githubusercontent.com/64801585/177122571-39d0a980-1427-4c95-a766-d9d420f3bd96.png)
+
 
 ### Life & Shift
 
