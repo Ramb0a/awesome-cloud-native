@@ -47,6 +47,8 @@ Successful organizations utlize cloud transformation to:
 
 ![Cloud Governance](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-guide/images/how-to-prepare-aws-environments.png)
 
+![image](https://user-images.githubusercontent.com/64801585/177121229-d96ebef9-985d-456d-968e-818ddd8d2dbd.png)
+
 ![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
 
 * [GCP Landing Zones](https://cloud.google.com/architecture/landing-zones)
