@@ -47,6 +47,9 @@ Successful organizations utlize cloud transformation to:
 
 ![Cloud Governance](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-guide/images/how-to-prepare-aws-environments.png)
 
+![image](https://user-images.githubusercontent.com/64801585/177202204-019e8ffd-5ea5-40ad-b467-b47705fba85c.png)
+
+
 ![image](https://user-images.githubusercontent.com/64801585/177121229-d96ebef9-985d-456d-968e-818ddd8d2dbd.png)
 
 ![image](https://user-images.githubusercontent.com/64801585/177121750-e1e13ffd-0c16-45f2-9499-0f86b1f2c3b0.png)
