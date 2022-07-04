@@ -49,7 +49,7 @@ Successful organizations utlize cloud transformation to:
 
 ![image](https://user-images.githubusercontent.com/64801585/177121229-d96ebef9-985d-456d-968e-818ddd8d2dbd.png)
 
-![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
+![image](https://user-images.githubusercontent.com/64801585/177121750-e1e13ffd-0c16-45f2-9499-0f86b1f2c3b0.png)
 
 * [GCP Landing Zones](https://cloud.google.com/architecture/landing-zones)
 
@@ -78,6 +78,8 @@ Successful organizations utlize cloud transformation to:
 The choice is not between moving applications to the cloud “as is” or full refactoring to enable cloud-native capabilities. There is a spectrum of options in-between. Companies who move fastest empower teams to evaluate trade-offs, document their decisions, move quickly, and use data to measure performance and adjust.
 
 Companies that do not engage all aspects of their organization to accelerate through the most complex phase of dual operations (on-premises and on cloud) often stall early in the transition, diminish the business case, and miss the opportunity to capture the value of cloud innovation.
+
+![image](https://user-images.githubusercontent.com/64801585/176884107-7b107564-f922-4fb4-87e2-ab4c23d601d1.png)
 
 ### Life & Shift
 
