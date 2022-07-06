@@ -134,23 +134,17 @@ Compute Instances are of several types:
 
 Service meshes should not be the first project you get into in your cloud journey. if you have a monolith without a path to microservices, you don’t need a service mesh.
 
-[Istio](https://istio.io/latest/) is a control plane with [sidecar pattern](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) [architecture](https://istio.io/latest/docs/ops/deployment/architecture/) that uses [Envoy](https://www.envoyproxy.io/) proxies for its data plane. 
+### Service Mesh Tools
 
-[Jaegar](https://www.jaegertracing.io/)  
-
-[Grafana](https://grafana.com/)
-
-[AWS Managed Service for Grafana](https://aws.amazon.com/grafana/?nc2=type_a) With Amazon Managed Grafana, you can analyze your metrics, logs, and traces without having to provision servers, configure and update software, or do the heavy lifting involved in securing and scaling Grafana in production 
-
-[Prometheus](https://prometheus.io/)  
-
-[AWS Managed Service for Prometheus](https://aws.amazon.com/prometheus/) Amazon Managed Service for Prometheus automatically scales the ingestion, storage, alerting, and querying of operational metrics as workloads grow or shrink, and is integrated with AWS security services to enable fast and secure access to data – not available in Canada central – how to use? Seems very very expensive.  
-
-[GCP Managed Service for Prometheus](https://cloud.google.com/stackdriver/docs/managed-prometheus) Fully managed Prometheus compatible monitoring stack with default two year retention and global queries over regionalized data – lowered pricing for high tier usage 
-
-[AWS App Mesh](https://aws.amazon.com/app-mesh/?aws-app-mesh-blogs.sort-by=item.additionalFields.createdDate&aws-app-mesh-blogs.sort-order=desc&whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc) uses Envoy (fully managed servce)  
-
-[Anthos Service Mesh](https://cloud.google.com/anthos/service-mesh) uses Istio (fully managed service) - opinions 
+* [Istio](https://istio.io/latest/) is a control plane with [sidecar pattern](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) [architecture](https://istio.io/latest/docs/ops/deployment/architecture/) that uses [Envoy](https://www.envoyproxy.io/) proxies for its data plane. 
+* [Jaegar](https://www.jaegertracing.io/)  
+* [Grafana](https://grafana.com/)
+* [AWS Managed Service for Grafana](https://aws.amazon.com/grafana/?nc2=type_a) With Amazon Managed Grafana, you can analyze your metrics, logs, and traces without having to provision servers, configure and update software, or do the heavy lifting involved in securing and scaling Grafana in production 
+* [Prometheus](https://prometheus.io/)  
+* [AWS Managed Service for Prometheus](https://aws.amazon.com/prometheus/) Amazon Managed Service for Prometheus automatically scales the ingestion, storage, alerting, and querying of operational metrics as workloads grow or shrink, and is integrated with AWS security services to enable fast and secure access to data – not available in Canada central – how to use? Seems very very expensive.  
+* [GCP Managed Service for Prometheus](https://cloud.google.com/stackdriver/docs/managed-prometheus) Fully managed Prometheus compatible monitoring stack with default two year retention and global queries over regionalized data – lowered pricing for high tier usage 
+* [AWS App Mesh](https://aws.amazon.com/app-mesh/?aws-app-mesh-blogs.sort-by=item.additionalFields.createdDate&aws-app-mesh-blogs.sort-order=desc&whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc) uses Envoy (fully managed servce)  
+* [Anthos Service Mesh](https://cloud.google.com/anthos/service-mesh) uses Istio (fully managed service) - opinions 
 
 [Open Telemetry](https://opentelemetry.io/)
 
