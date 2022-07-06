@@ -20,7 +20,7 @@ A cloud native application is engineered to run on a platform and is designed fo
 
 ## Cloud Transformation
 
-Successful transformation programs are business-driven. They have clear governance of key milestone objectives with a [cloud operating mode](https://docs.aws.amazon.com/whitepapers/latest/building-cloud-operating-model/building-cloud-operating-model.html) that builds transparent success metrics coupled with a people strategy that accommodates a variety of organizational / team levels of cloud expertise. Successful cloud transformation programs enable teams to work and collaborate using agile principles to improve collaboration and joint prioritization. An agile approach breaks down large tasks (such as enterprise migration) into manageable, iterative pieces of work delivered and measured incrementally. 
+Successful [transformation programs](https://aws.amazon.com/blogs/enterprise-strategy/802-2/) are business-driven. They have clear governance of key milestone objectives with a [cloud operating mode](https://docs.aws.amazon.com/whitepapers/latest/building-cloud-operating-model/building-cloud-operating-model.html) that builds transparent success metrics coupled with a people strategy that accommodates a variety of organizational / team levels of cloud expertise. Successful cloud transformation programs enable teams to work and collaborate using agile principles to improve collaboration and joint prioritization. An agile approach breaks down large tasks (such as enterprise migration) into manageable, iterative pieces of work delivered and measured incrementally. 
 
 ![Cloud Agile Transformtion](https://docs.aws.amazon.com/whitepapers/latest/cloud-driven-enterprise-transformation-on-aws/images/CloudTransformation2.png)
 
