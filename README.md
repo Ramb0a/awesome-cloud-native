@@ -75,6 +75,16 @@ Successful organizations utlize cloud transformation to:
 
 [GCP Maximize Business Value with Cloud FinOps](https://cloud.google.com/resources/cloud-finops-whitepaper)
 
+## Cloud DevSecOps
+
+Security Scanning Requirements:
+
+* Static Application Security Testing (SAST)
+* Dynamic Application Security Testing (DAST)
+* Container Image Scanning
+* Infrastructure-as-code (IAC) scanning
+* Secret detection
+
 
 ## Migation Patterns 
 
