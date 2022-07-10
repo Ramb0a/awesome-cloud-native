@@ -77,6 +77,8 @@ Successful organizations utlize cloud transformation to:
 
 ## Cloud DevSecOps
 
+![devSecOps](https://github.com/Ramb0a/awesome-cloud-native/blob/main/devSecOps.png)
+
 Security Scanning Requirements:
 
 * Static Application Security Testing (SAST)
