@@ -93,8 +93,16 @@ DevSecOps is eight phases complimented by specific cybersecurity activities:
 
 Security Scanning Requirements:
 
-* Static Application Security Testing (SAST)
-* Dynamic Application Security Testing (DAST)
+* Static Application Security Testing (SAST) should be performed early and often against all files containing source code or binaries.
+  * Application is security tested from the inside out
+  * Does not need to execute the application.
+  * Can't discover run-time vulnerabilities since analysis happens prior to execution  
+* Dynamic Application Security Testing (DAST) - DAST should be performed on a running application in an environment similar to production
+  * Application is security tested from the outside in 
+  * Hacker approach security testing 
+  * Does not require source code or binaries 
+  * Analyses by executing application 
+  * typically most useful for web applications/web services  
 * Container Image Scanning
 * Infrastructure-as-code (IAC) scanning
 * Secret detection
