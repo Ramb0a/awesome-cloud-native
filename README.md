@@ -107,6 +107,13 @@ When this central group drives the rules of cost allocation and pushes out clear
 
 The central team defines what the organization uses as a business metric. In fact, this is a key early task of the FinOps team.   
 
+* centralized team enabling a decentralized practice
+* manage and report 
+* share best practices and reccomendations 
+* creating visibility of spend 
+* unified measurement and clear communication 
+* defines business metrics 
+
 ### How FinOps? 
 
 > You should be heading toward unit economics to give responsibility of the budget to the teams. Central teams are still doing the allocation, but you want to push accountability out to the teams at the edge via chargeback and showback to make it their responsibility. The central team is defining how to use the cloud.
