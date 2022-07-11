@@ -107,6 +107,8 @@ When this central group drives the rules of cost allocation and pushes out clear
 
 The central team defines what the organization uses as a business metric. In fact, this is a key early task of the FinOps team.   
 
+A finOps practice team: 
+
 * centralized team enabling a decentralized practice
 * manage and report 
 * share best practices and reccomendations 
@@ -132,11 +134,21 @@ The key to winning at FinOps is getting an allocation strategy up and running, a
 
 Too often the focus is on the cost of the infrastructure itself. But the biggest cost in software development is commonly the people. Consider this closely when looking at both sides of the serverless argument. The people cost (e.g., salaries) may cancel out any infrastructure savings when you’re considering a move from a monolithic application to a serverless one. Coming back to the benefits versus effort, you should consider the overall. 
 
-The entire discussion on serverless—as with all things FinOps—should be grounded in the goal of FinOps: it’s not about saving money; it’s about making money. On your cloud bill, serverless could actually end up being more expensive for certain applications, or it might save a ton of money for others. The real cost you incur in order to achieve those savings will be the people cost, but the real benefit you gain from serverless may well be shorter time to market. And when it comes to competitive advantage, opportunity costs outweigh many real costs. 
+The entire discussion on serverless —as with all things FinOps— should be grounded in the goal of FinOps: it’s not about saving money; it’s about making money. On your cloud bill, serverless could actually end up being more expensive for certain applications, or it might save a ton of money for others. The real cost you incur in order to achieve those savings will be the people cost, but the real benefit you gain from serverless may well be shorter time to market. And when it comes to competitive advantage, opportunity costs outweigh many real costs. 
 
 Hourly data is required to do higher-level FinOps functions like RI planning. 
 
 Cloud billing isn’t monthly like the data center billing finance teams are used to. It’s much more granular, and if you want to make an apples-to-apples comparison, you need to look at the same lengths of time, whether that’s 10 days or 10 hours. 
+
+How FinOps best practices:
+
+* centralize finOps strategy & enablment practices, decentralize finOps utlization 
+* measure the centralized finOps team 
+* provide real-time data 
+* add cost metrics to metrics that engineering teams track
+* start early and keep finOps going often
+* finOps is about making money
+* change the mindset around cloud billing from procurement to engineering proactivity
 
 
 ### FinOps Common Terms
