@@ -57,6 +57,74 @@ Successful organizations utlize cloud transformation to:
 
 ## FinOps
 
+The term “FinOps” typically refers to the emerging professional movement that advocates a collaborative working relationship between DevOps and Finance, resulting in an iterative, data-driven management of infrastructure spending (i.e., lowering the unit economics of cloud) while simultaneously increasing the cost efficiency and, ultimately, the profitability of the cloud environment. - cloud FinOps Book 
+
+Finance best practices for the cloud. The practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality. 
+
+At its core, FinOps is a cultural practice. It’s the most efficient way in the world for teams to manage their cloud costs, where everyone takes ownership of their cloud usage supported by a central best-practices group. 
+
+With FinOps, each operational team (workload, service, product owner) can access the near-real-time data they need to influence their spend and help them make intel‐ ligent decisions that ultimately result in efficient cloud costs balanced against the speed/performance and quality/availability of services. 
+
+FinOps is about making money. Cloud spend can drive more revenue, signal customer base growth, enable more product and feature release velocity, or even help shut down a data center. 
+
+Real time reporting + just-in-time processes + teams working together = FinOps 
+
+Even though cloud spending is now a material amount of IT spend, the cloud operating model is still immature. As companies move away from the fixed-cost data center model and toward the cloud with its variable-cost, consumption-based model, they must transform their financial operations, just as they did their development ones 
+
+A central FinOps team is the driver of a FinOps mindset across the organization, evangelizing best practices for incorporating cost considerations into development plans. FinOps practitioners perform centralized tasks like managing and reporting on reserved cloud capacity. But the actual implementation of those best practices is handled by the engineers inside various product and application teams.  
+
+The unbiased central team, with ties to both engineering teams and finance teams, shares objective best practices and recommendations. 
+
+Instead of a focus on centralizing spend approvals, FinOps builds visibility of the spend to the appropriate areas to create accountability.  
+
+When this central group drives the rules of cost allocation and pushes out clear com‐ munication about how teams are doing, everyone is reassured that they’re being man‐ aged and measured against the same criteria.  
+
+Finally, the central team defines what the organization uses as a business metric. In fact, this is a key early task of the FinOps team.   
+
+The most successful companies decentralize using less (i.e., avoiding costs), and centralize paying less (i.e., reducing rates). 
+
+Measure the central FinOps team on metrics tied to increasing reservation/commitment coverage, reducing unused vacancy, and taking advantage of volume discounts or negotiated pricing. 
+
+To keep them moving quickly, generate usage optimization recommendations centrally. 
+
+The FinOps practitioner empowers engineering teams by giving them the insight and data access to make the best technology decisions in near real time. They introduce savings potential and spend impact as cost metrics alongside the other metrics the engineering teams already track. 
+
+"You should be heading toward unit economics to give responsibility of the budget to the teams. Central teams are still doing the allocation, but you want to push accountability out to the teams at the edge via chargeback and showback to make it their responsibility. The central team is defining how to use the cloud." 
+
+The key to winning at FinOps is getting an allocation strategy up and running, and doing it early and consistently. To do so, you need to get cross-team visibility. 
+
+Too often—even in this book—the focus is on the cost of the infrastructure itself. But the biggest cost in software development is commonly the people. Consider this closely when looking at both sides of the serverless argument. The people cost (e.g., salaries) may cancel out any infrastructure savings when you’re considering a move from a monolithic application to a serverless one. Coming back to the benefits versus effort, you should consider the overall. 
+
+The entire discussion on serverless—as with all things FinOps—should be grounded in the goal of FinOps: it’s not about saving money; it’s about making money. On your cloud bill, serverless could actually end up being more expensive for certain applications, or it might save a ton of money for others. The real cost you incur in order to achieve those savings will be the people cost, but the real benefit you gain from serverless may well be shorter time to market. And when it comes to competitive advantage, opportunity costs outweigh many real costs. 
+
+### FinOps Common Terms
+
+
+* Cost Allocation - The process of splitting up a cloud bill and associating the costs to each cost center.  
+* Wasted usage - Resource usage that isn’t actively used by an organization but is provisioned 
+* Rightsizing - When a cloud resource is provisioned larger than is required, it’s considered oversized. Rightsizing changes the size of provisioned resources to better match need 
+* On-demand rate - Normal or base rate public pricing paid for a cloud resource 
+* Rate Reduction - Reserved Instances (RIs), Committed Use Discounts (CUDs), or commercial agreements between org and CSP to receive a lower rate for resources used 
+* Cost Avoidance - a reduction in amount of cost for the current month’s billing cycle by reducing usage (not found in bill)  
+* Cost Savings – Reduction of rate paid for resources (found in bill) 
+* Savings Realized - savings applied to billing data – good for tracking FinOps progress 
+* Savings Potential -predict amount of savings using existing commitments and commercial agreements prior to savings realized 
+* Reservations/Commitments - precommited resource utilization for rate reduction 
+* Reservations unused/unutilized - every hour of precommit not used  
+* Resevation waste – if discount is not larger than cost of unused reservation, costing more than you would save  
+* Covered Useage – Resource charges discounted by reservation  
+* Coverable Useage – not all cloud useage is coverable – when usage reservation would result  in savings it fall under     
+* Amoratized Costs – resources/reservations with upfront fees, with fees divided out among payments  
+* Fully loaded costs – actual costs of cloud spend including discounts  
+* Chargeback - happens when the actual cost being incurred is allocated back to the budget or P&L of an individual team.  
+* Showback - happens when you show teams what they are spending, but the dollars are allocated internally from a central budget. 
+
+Hourly data is required to do higher-level FinOps functions like RI planning. 
+
+Cloud billing isn’t monthly like the data center billing finance teams are used to. It’s much more granular, and if you want to make an apples-to-apples comparison, you need to look at the same lengths of time, whether that’s 10 days or 10 hours. 
+
+Spend = Usage × Rate
+
 ### FinOps References 
 
 [GCP Unlocking Value of FinOps](https://services.google.com/fh/files/misc/unlocking_the_value_of_cloud_finops_with_a_new_operating_model_whitepaper.pdf)
