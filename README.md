@@ -57,6 +57,12 @@ Successful organizations utlize cloud transformation to:
 
 ## FinOps
 
+Even though cloud spending is now a material amount of IT spend, the cloud operating model is still immature. As companies move away from the fixed-cost data center model and toward the cloud with its variable-cost, consumption-based model, they must transform their financial operations, just as they did their development ones 
+
+A central **FinOps** team is the driver of a mindset across the organization, which evangelizes best practices for incorporating cost considerations into development plans.
+
+### What is FinOps? 
+
 > An operational framework and cultural shift that brings technology, finance, and business together to drive financial accountability and accelerate business value realization through cloud transformation. - google definition 
 
 > The term “FinOps” typically refers to the emerging professional movement that advocates a collaborative working relationship between DevOps and Finance, resulting in an iterative, data-driven management of infrastructure spending (i.e., lowering the unit economics of cloud) while simultaneously increasing the cost efficiency and, ultimately, the profitability of the cloud environment. 
@@ -71,7 +77,7 @@ Successful organizations utlize cloud transformation to:
 
 Real time reporting + just-in-time processes + teams working together = FinOps 
 
-**FinOps Building Blocks**
+### FinOps Building Blocks
 
 * **Accountability and enablement** – centralized cross-functional team to establish governance and set standards for managing spend  
     * Suggested Metric - % of leaders trained/certified across org focusing on leaders most releveant to cloud 
@@ -88,17 +94,22 @@ Real time reporting + just-in-time processes + teams working together = FinOps
   * Automation for policies and alerts  
      * Suggested Metric - # of automation reccomendations implemented / total list of automated reccomendations that result in cost savings = FinOps automation %
 
-Even though cloud spending is now a material amount of IT spend, the cloud operating model is still immature. As companies move away from the fixed-cost data center model and toward the cloud with its variable-cost, consumption-based model, they must transform their financial operations, just as they did their development ones 
 
-A central FinOps team is the driver of a FinOps mindset across the organization, evangelizing best practices for incorporating cost considerations into development plans. FinOps practitioners perform centralized tasks like managing and reporting on reserved cloud capacity. But the actual implementation of those best practices is handled by the engineers inside various product and application teams.  
+### What is a FinOps practice team? 
+
+FinOps practitioners perform centralized tasks like managing and reporting on reserved cloud capacity. But the actual implementation of those best practices is handled by the engineers inside various product and application teams.  
 
 The unbiased central team, with ties to both engineering teams and finance teams, shares objective best practices and recommendations. 
 
 Instead of a focus on centralizing spend approvals, FinOps builds visibility of the spend to the appropriate areas to create accountability.  
 
-When this central group drives the rules of cost allocation and pushes out clear com‐ munication about how teams are doing, everyone is reassured that they’re being man‐ aged and measured against the same criteria.  
+When this central group drives the rules of cost allocation and pushes out clear communication about how teams are doing, everyone is reassured that they’re being managed and measured against the same criteria.  
 
-Finally, the central team defines what the organization uses as a business metric. In fact, this is a key early task of the FinOps team.   
+The central team defines what the organization uses as a business metric. In fact, this is a key early task of the FinOps team.   
+
+### How FinOps? 
+
+> You should be heading toward unit economics to give responsibility of the budget to the teams. Central teams are still doing the allocation, but you want to push accountability out to the teams at the edge via chargeback and showback to make it their responsibility. The central team is defining how to use the cloud.
 
 The most successful companies decentralize using less (i.e., avoiding costs), and centralize paying less (i.e., reducing rates). 
 
@@ -106,9 +117,9 @@ Measure the central FinOps team on metrics tied to increasing reservation/commit
 
 To keep them moving quickly, generate usage optimization recommendations centrally. 
 
-The FinOps practitioner empowers engineering teams by giving them the insight and data access to make the best technology decisions in near real time. They introduce savings potential and spend impact as cost metrics alongside the other metrics the engineering teams already track. 
+The FinOps practitioner empowers engineering teams by giving them the insight and data access to make the best technology decisions in near real time.
 
-"You should be heading toward unit economics to give responsibility of the budget to the teams. Central teams are still doing the allocation, but you want to push accountability out to the teams at the edge via chargeback and showback to make it their responsibility. The central team is defining how to use the cloud." 
+They introduce savings potential and spend impact as cost metrics alongside the other metrics the engineering teams already track. 
 
 The key to winning at FinOps is getting an allocation strategy up and running, and doing it early and consistently. To do so, you need to get cross-team visibility. 
 
