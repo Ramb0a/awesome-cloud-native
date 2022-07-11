@@ -77,7 +77,27 @@ Successful organizations utlize cloud transformation to:
 
 ## Cloud DevSecOps
 
+> DevSecOps advances the growing philosophy and sentiment that reliance upon bolt-on or standalone monolithic cybersecurity platforms is incapable of providing adequate security in today’s operational environments. Cybersecurity tooling that is fully isolated from the development and operational environments are reactive at best, whereas integrated automated tooling with the software factory is proactive. 
+
+We can measure the success or failure of our DevSecOps transformation via the 4 key metrics: 
+
+* **Deployment Frequency** – cycle Time, planning to production.
+* **Lead Time** – the measurement between commit time to production deployment.
+* **Mean Time to Resolution (MTTR)** – how long to get your code back up and running, if there is an incident.
+* **Change Failure Rate (CFR)** – % changes going into production that require rework.
+
 ![devSecOps](https://github.com/Ramb0a/awesome-cloud-native/blob/main/devSecOps.png)
+
+DevSecOps is eight phases complimented by specific cybersecurity activities: 
+* **Plan**
+* **Develop** 
+* **Build** 
+* **Test**
+* **Release** 
+* **Deliver** 
+* **Deploy**
+* **Operate**
+* **Monitor** 
 
 Security Scanning Requirements:
 
@@ -86,6 +106,16 @@ Security Scanning Requirements:
 * Container Image Scanning
 * Infrastructure-as-code (IAC) scanning
 * Secret detection
+
+
+### Zero Trust
+
+> Zero Trust must be the target security model for cybersecurity adopted by DevSecOps platforms and the teams that use those platforms. 
+
+**Behaviour Detection** - trigger an actionable and logged alert that conveys I saw something anomalous
+
+**Behavioud Prevention** -  triggers an actionable and logged alert, but also either proactively prevent or immediately terminates anomalous behaviors and conveys I inhibited something anomalous.
+
 
 
 ## Migation Patterns 
