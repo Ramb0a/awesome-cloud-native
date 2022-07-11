@@ -185,6 +185,8 @@ How FinOps best practices:
 
 ## DevSecOps
 
+![DevOpsPipeline](https://github.com/Ramb0a/awesome-cloud-native/blob/main/pipeline.png)
+
 > DevSecOps advances the growing philosophy and sentiment that reliance upon bolt-on or standalone monolithic cybersecurity platforms is incapable of providing adequate security in today’s operational environments. Cybersecurity tooling that is fully isolated from the development and operational environments are reactive at best, whereas integrated automated tooling with the software factory is proactive. 
 
 We can measure the success or failure of our DevSecOps transformation via the 4 key metrics: 
@@ -225,7 +227,7 @@ Security Scanning Requirements:
 * Infrastructure-as-code (IAC) scanning
 * Secret detection
 
-![Security](https://github.com/Ramb0a/awesome-cloud-native/blob/main/pipeline.png)
+![Security](https://github.com/Ramb0a/awesome-cloud-native/blob/main/security.png)
 
 
 ### Zero Trust
