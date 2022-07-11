@@ -57,9 +57,7 @@ Successful organizations utlize cloud transformation to:
 
 ## FinOps
 
-An operational framework and cultural shift that brings technology, finance, and business together to drive financial accountability and accelerate business value realization through cloud transformation. - google definition 
-
-  
+> An operational framework and cultural shift that brings technology, finance, and business together to drive financial accountability and accelerate business value realization through cloud transformation. - google definition 
 
 > The term “FinOps” typically refers to the emerging professional movement that advocates a collaborative working relationship between DevOps and Finance, resulting in an iterative, data-driven management of infrastructure spending (i.e., lowering the unit economics of cloud) while simultaneously increasing the cost efficiency and, ultimately, the profitability of the cloud environment. 
 
@@ -73,18 +71,18 @@ An operational framework and cultural shift that brings technology, finance, and
 
 Real time reporting + just-in-time processes + teams working together = FinOps 
 
-FinOps Building Blocks
+**FinOps Building Blocks**
 
-* Accountability and enablement – centralized cross-functional team to establish governance and set standards for managing spend  
-  * Suggested Metric - % of leaders trained/certified across org focusing on leaders most releveant to cloud 
-* Measurement and realization – KPI to measure transformation success 
-* Cost optimization – identify drivers of cost optimization within the areas of  
+* **Accountability and enablement** – centralized cross-functional team to establish governance and set standards for managing spend  
+    * Suggested Metric - % of leaders trained/certified across org focusing on leaders most releveant to cloud 
+* **Measurement and realization** – KPI to measure transformation success 
+* **Cost optimization** – identify drivers of cost optimization within the areas of  
   * Resource optimization 
   * Pricing optimization 
   * Architecture optimization  
-* Planning and forecasting – without these, drivers + spend cannot be baselined & benchmarked  
-  * Suggested Metric  - Actual cloud spend / annual forecasted cloud spend = forecast accuracy 
-* Tools and accelerators  - 
+* **Planning and forecasting** – without these, drivers + spend cannot be baselined & benchmarked  
+     * Suggested Metric  - Actual cloud spend / annual forecasted cloud spend = forecast accuracy 
+* **Tools and accelerators**  - 
   * CSP cost management tools to analyze bills in real time 
   * Single pane reporting dashboard for stakeholder tracking  
   * Automation for policies and alerts  
