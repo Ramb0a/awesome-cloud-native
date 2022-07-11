@@ -57,17 +57,38 @@ Successful organizations utlize cloud transformation to:
 
 ## FinOps
 
+An operational framework and cultural shift that brings technology, finance, and business together to drive financial accountability and accelerate business value realization through cloud transformation. - google definition 
+
+  
+
 > The term “FinOps” typically refers to the emerging professional movement that advocates a collaborative working relationship between DevOps and Finance, resulting in an iterative, data-driven management of infrastructure spending (i.e., lowering the unit economics of cloud) while simultaneously increasing the cost efficiency and, ultimately, the profitability of the cloud environment. 
 
 > The practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality. 
 
-At its core, FinOps is a cultural practice. It’s the most efficient way in the world for teams to manage their cloud costs, where everyone takes ownership of their cloud usage supported by a central best-practices group. 
+> At its core, FinOps is a cultural practice. It’s the most efficient way in the world for teams to manage their cloud costs, where everyone takes ownership of their cloud usage supported by a central best-practices group. 
 
-With FinOps, each operational team (workload, service, product owner) can access the near-real-time data they need to influence their spend and help them make intel‐ ligent decisions that ultimately result in efficient cloud costs balanced against the speed/performance and quality/availability of services. 
+> With FinOps, each operational team (workload, service, product owner) can access the near-real-time data they need to influence their spend and help them make intel‐ ligent decisions that ultimately result in efficient cloud costs balanced against the speed/performance and quality/availability of services. 
 
-FinOps is about making money. Cloud spend can drive more revenue, signal customer base growth, enable more product and feature release velocity, or even help shut down a data center. 
+> FinOps is about making money. Cloud spend can drive more revenue, signal customer base growth, enable more product and feature release velocity, or even help shut down a data center. 
 
 Real time reporting + just-in-time processes + teams working together = FinOps 
+
+FinOps Building Blocks
+
+* Accountability and enablement – centralized cross-functional team to establish governance and set standards for managing spend  
+  * Suggested Metric - % of leaders trained/certified across org focusing on leaders most releveant to cloud 
+* Measurement and realization – KPI to measure transformation success 
+* Cost optimization – identify drivers of cost optimization within the areas of  
+  * Resource optimization 
+  * Pricing optimization 
+  * Architecture optimization  
+* Planning and forecasting – without these, drivers + spend cannot be baselined & benchmarked  
+  * Suggested Metric  - Actual cloud spend / annual forecasted cloud spend = forecast accuracy 
+* Tools and accelerators  - 
+  * CSP cost management tools to analyze bills in real time 
+  * Single pane reporting dashboard for stakeholder tracking  
+  * Automation for policies and alerts  
+     * Suggested Metric - # of automation reccomendations implemented / total list of automated reccomendations that result in cost savings = FinOps automation %
 
 Even though cloud spending is now a material amount of IT spend, the cloud operating model is still immature. As companies move away from the fixed-cost data center model and toward the cloud with its variable-cost, consumption-based model, they must transform their financial operations, just as they did their development ones 
 
