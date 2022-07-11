@@ -225,6 +225,8 @@ Security Scanning Requirements:
 * Infrastructure-as-code (IAC) scanning
 * Secret detection
 
+![Security](https://github.com/Ramb0a/awesome-cloud-native/blob/main/pipeline.png)
+
 
 ### Zero Trust
 
