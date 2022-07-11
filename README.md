@@ -78,7 +78,7 @@ We can measure the success or failure of our DevSecOps transformation via the 4 
 * **Mean Time to Resolution (MTTR)** – how long to get your code back up and running, if there is an incident.
 * **Change Failure Rate (CFR)** – % changes going into production that require rework.
 
-![devSecOps](https://github.com/Ramb0a/awesome-cloud-native/blob/main/devSecOps.png)
+![DevSecOps Metrics](https://github.com/Ramb0a/awesome-cloud-native/blob/main/devOpsMetrics.png)
 
 DevSecOps is eight phases complimented by specific cybersecurity activities: 
 * **Plan**
@@ -90,6 +90,8 @@ DevSecOps is eight phases complimented by specific cybersecurity activities:
 * **Deploy**
 * **Operate**
 * **Monitor** 
+
+![devSecOps](https://github.com/Ramb0a/awesome-cloud-native/blob/main/devSecOps.png)
 
 Security Scanning Requirements:
 
