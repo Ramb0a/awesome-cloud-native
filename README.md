@@ -153,7 +153,7 @@ Cloud billing isn’t monthly like the data center billing finance teams are use
 
 [GCP Maximize Business Value with Cloud FinOps](https://cloud.google.com/resources/cloud-finops-whitepaper)
 
-## Cloud DevSecOps
+## DevSecOps
 
 > DevSecOps advances the growing philosophy and sentiment that reliance upon bolt-on or standalone monolithic cybersecurity platforms is incapable of providing adequate security in today’s operational environments. Cybersecurity tooling that is fully isolated from the development and operational environments are reactive at best, whereas integrated automated tooling with the software factory is proactive. 
 
