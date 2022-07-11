@@ -142,13 +142,13 @@ Cloud billing isn’t monthly like the data center billing finance teams are use
 
 How FinOps best practices:
 
-* centralize finOps strategy & enablment practices, decentralize finOps utlization 
-* measure the centralized finOps team 
-* provide real-time data 
-* add cost metrics to metrics that engineering teams track
-* start early and keep finOps going often
+* **centralize** finOps strategy & enablment practices, decentralize finOps utlization 
+* **measure** the centralized finOps team 
+* provide **real-time** data 
+* add cost metrics to metrics that engineering teams **track**
+* **start early** and keep finOps going often
 * finOps is about making money
-* change the mindset around cloud billing from procurement to engineering proactivity
+* **change the mindset** around cloud billing from procurement to engineering proactivity
 
 
 ### FinOps Common Terms
