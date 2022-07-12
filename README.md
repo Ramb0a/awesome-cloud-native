@@ -217,6 +217,7 @@ Security Scanning Requirements:
   * Application is security tested from the inside out
   * Does not need to execute the application.
   * Can't discover run-time vulnerabilities since analysis happens prior to execution  
+  * [Owasp top ten](https://owasp.org/www-project-top-ten/)
 * **Dynamic Application Security Testing (DAST)** should be performed on a running application in an environment similar to production
   * Application is security tested from the outside in 
   * Hacker approach security testing 
